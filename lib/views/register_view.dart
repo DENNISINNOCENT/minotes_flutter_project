@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:minotes/services/auth/auth_expections.dart';
+import 'package:minotes/services/auth/auth_exceptions.dart';
 
 import '../constants/routes.dart';
 import '../services/auth/auth_service.dart';
